@@ -109,4 +109,14 @@ ul li span:hover{
     background: #edeef0;
 }
 
-
+.set-alerts-button {
+    border: none;
+    outline: none;
+    padding: 8px 16px; /* Adjust button padding */
+    background: #ff5945;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: 10px; /* Add margin between the task text and button */
+}
